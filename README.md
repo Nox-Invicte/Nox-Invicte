@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak Srivastava</h1>
 <h3 align="center">A passionate student developer from India</h3>
+
 - 🔭 I’m currently working on [CodeWaltz](codewaltz.vercel.app)
 
 - 👨‍💻 All of my projects are available at [sarthak-s.vercel.app](sarthak-s.vercel.app)
