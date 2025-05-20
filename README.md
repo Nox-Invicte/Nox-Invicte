@@ -20,6 +20,8 @@
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nox-invicte&show_icons=true&locale=en&layout=compact" alt="nox-invicte" /></p>
 <br />
-<h3 align="left">Statistics:</h3>
+
+<h3 align="left">Trophy:</h3>
+<br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nox-invicte" alt="nox-invicte" /></a> </p>
 
