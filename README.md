@@ -18,6 +18,5 @@
 <h3 align="left">Statistics:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nox-invicte&show_icons=true&locale=en" alt="nox-invicte" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nox-invicte&show_icons=true&locale=en&layout=compact" alt="nox-invicte" /></p>
-<h3 align="left">Trophy:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nox-invicte&show_icons=true&locale=en&layout=compact" alt="nox-invicte" /></a> </p>
 </p>
