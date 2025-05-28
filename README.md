@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarthak Srivastava</h1>
 <h3 align="center">A passionate student developer from India</h3>
 
-- 🔭 I’m currently working on [CodeWaltz](codewaltz.vercel.app)
+- 🔭 I’m currently working on [CodeWaltz](https://codewaltz.vercel.app/)
 
-- 👨‍💻 All of my projects are available [here](sarthak-s.vercel.app)
+- 👨‍💻 All of my projects are available [here](https://sarthak-s.vercel.app/)
 
 - 📫 How to reach me **sarthak.srivastav186@gmail.com**
 
