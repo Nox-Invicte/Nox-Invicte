@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CodeWaltz](codewaltz.vercel.app)
 
-- 👨‍💻 All of my projects are available at [sarthak-s.vercel.app](sarthak-s.vercel.app)
+- 👨‍💻 All of my projects are available [here](sarthak-s.vercel.app)
 
 - 📫 How to reach me **sarthak.srivastav186@gmail.com**
 
